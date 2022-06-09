@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, jackson-databind, junit, kotlin, logback, maven, picocli, picocli-junit, picocli-kotlin-application, readme, shade, yaml]
